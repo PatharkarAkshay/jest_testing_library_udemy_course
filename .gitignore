@@ -1,0 +1,10 @@
+./color-button/node_modules
+./color-button/.vscode
+./color-button/package-lock.json
+
+./sundae-server/node_modules
+./sundae-server/package-lock.json
+
+./sundaes-on-demand/node_modules
+./sundaes-on-demand/package-lock.json
+./sundaes-on-demand/.vscode
